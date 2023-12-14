@@ -1,0 +1,117 @@
+/* ================== Users ==================== */
+
+.delete_form
+{
+		display:inline;
+}
+
+.delete_post
+{
+	border:none;
+	background:transparent;
+	color:#337ab7;
+	cursor:pointer;
+}
+
+.popover { z-index: 10000; }
+
+
+/* ================== Pages ==================== */
+.img_datatable, .img_gp
+{
+	height:40px;
+}
+
+.img_datatable:hover
+{
+	cursor:pointer;
+	opacity:0.85;
+}
+
+.edit_btn
+{
+	border:none; 
+	color:#1c84c6; 
+	background:transparent;
+}
+
+.edit_btn:hover
+{
+	color:#1c84c6;
+	opacity:0.85;
+}
+
+table td
+{
+	vertical-align: middle !important;
+}
+
+
+.blocked_input
+{
+	background-color:#e0e0e0 !important;
+}
+
+.today_activity
+{
+	background-color:#d2ffd2 !important;
+}
+
+.date_input
+{
+	/*width:65% !important;*/
+	padding-left:2% !important;
+}
+
+.note-editor
+{
+	min-height:120px !important;
+}
+
+.note-editing-area
+{
+	min-height:120px !important;
+}
+
+.margin-top{
+	margin-top: 10px;
+}
+
+.padding-bottom{
+	padding-bottom: 70px;
+}
+
+.chosen-container-multi{
+	width:344px !important;
+}
+
+.ibox {
+	margin-bottom:0px !important;
+}
+
+.ibox-title{
+	border-style:solid; 
+	border-width:3px 0px 1px 0px;
+}
+
+label small i {
+    font-weight: normal;
+}
+
+.green{
+	color: #1bb394;
+}
+
+.red_star{
+	color: red;
+}
+
+.save_btn {
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+.b_radius {
+	border-radius: 18px;
+}
+
